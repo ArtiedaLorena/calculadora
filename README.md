@@ -42,22 +42,5 @@ El proyecto consta de los siguientes archivos:
 
 1. Abre `index.html` en tu navegador web favorito.
 
-## Contribuir
 
-Las contribuciones son bienvenidas. Si deseas mejorar esta calculadora, por favor, sigue estos pasos:
 
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commits (`git commit -m 'Añadir nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
-
-## Contacto
-
-Lorena Artieda - [@tu_usuario](https://twitter.com/tu_usuario) - tu_email@example.com
-
-Repositorio del proyecto: [https://github.com/ArtiedaLorena/calculadora](https://github.com/ArtiedaLorena/calculadora)
